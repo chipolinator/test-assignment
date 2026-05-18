@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-![Задание 1](./attachments/1.1.png)
+![Задание 1](../attachments/1.1.png)
 
 ### Ответ
 
@@ -13,7 +13,7 @@
 
 <br>
 
-![Решение 1](./attachments/1.3.resh.png)
+![Решение 1](../attachments/1.3.resh.png)
 
 </details>
 
@@ -21,7 +21,7 @@
 
 ## Задание 2
 
-![Задание 2](./attachments/1.2.png)
+![Задание 2](../attachments/1.2.png)
 
 ### Ответ
 
@@ -32,7 +32,7 @@
 
 <br>
 
-![Решение 2](./attachments/1.2.resh.png)
+![Решение 2](../attachments/1.2.resh.png)
 
 </details>
 
@@ -40,7 +40,7 @@
 
 ## Задание 3
 
-![Задание 3](./attachments/1.3.png)
+![Задание 3](../attachments/1.3.png)
 
 ### Ответ
 
@@ -51,6 +51,6 @@
 
 <br>
 
-![Решение 3](./attachments/1.1.resh.png)
+![Решение 3](../attachments/1.1.resh.png)
 
 </details>

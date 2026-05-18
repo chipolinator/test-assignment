@@ -2,7 +2,7 @@
 
 ## Условие
 
-![Задание 2.1](./attachments/2.1.png)
+![Задание 2.1](../attachments/2.1.png)
 
 ## Ответ
 
@@ -14,7 +14,7 @@ code - ./Python/2.1.py
 
 ## Условие
 
-![Задание 2.2](./attachments/2.2.png)
+![Задание 2.2](../attachments/2.2.png)
 
 ## Ответ
 
@@ -27,7 +27,7 @@ code - ./Python/2.2.py
 
 ## Условие
 
-![Задание 2.3](./attachments/2.3.png)
+![Задание 2.3](../attachments/2.3.png)
 
 ## Ответ
 

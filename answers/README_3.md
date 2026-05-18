@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-![Задание 1](./attachments/3.1.png)
+![Задание 1](../attachments/3.1.png)
 
 ### Ответ
 
@@ -18,7 +18,7 @@ FROM examination;
 
 ## Задание 2
 
-![Задание 2](./attachments/3.2.png)
+![Задание 2](../attachments/3.2.png)
 
 ### Ответ
 
@@ -28,7 +28,7 @@ FROM examination;
 
 ## Задание 3
 
-![Задание 3](./attachments/3.3.png)
+![Задание 3](../attachments/3.3.png)
 
 ### Ответ
 
