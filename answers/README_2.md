@@ -8,7 +8,7 @@
 
 по времени и по памяти линейная сложность
 
-code - ./Python/2.1.py
+[code](../Python/2.1.py)
 
 # Задание 2
 
@@ -21,7 +21,7 @@ code - ./Python/2.1.py
 время — O(n)
 память — O(1)
 
-code - ./Python/2.2.py
+[code](../Python/2.2.py)
 
 # Задание 3
 
@@ -34,4 +34,4 @@ code - ./Python/2.2.py
 время — O(n)
 память — O(k)
 
-code - ./Python/2.3.py
+[code](../Python/2.3.py)
