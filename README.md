@@ -1,4 +1,4 @@
-# Topics
+# Разделы
 
 - [Теория вероятности и логика](./answers/README_1.md)
 - [Python](./answers/README_2.md)
